@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0228-summary-ranges) |
 | [0566-reshape-the-matrix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0867-transpose-matrix) |
