@@ -12,7 +12,7 @@ public:
 
         for(int i = 1; i <= n; i++)
         {
-            // Range ends here
+            
             if(i == n || nums[i] != nums[i - 1] + 1)
             {
                 if(start == nums[i - 1])
