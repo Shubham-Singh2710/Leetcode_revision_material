@@ -15,6 +15,6 @@ public:
             }
         }
 
-        return  (long long)sum * l;
+        return  1LL*sum * l;
     }
 };
