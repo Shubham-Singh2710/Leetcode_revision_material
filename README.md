@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1572-matrix-diagonal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0832-flipping-an-image) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
