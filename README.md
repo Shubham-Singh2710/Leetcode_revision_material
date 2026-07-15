@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
