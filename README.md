@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
+| [0162-find-peak-element](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Number Theory
