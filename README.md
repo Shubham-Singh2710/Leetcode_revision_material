@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0347-top-k-frequent-elements) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0867-transpose-matrix) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0443-string-compression) |
 ## Sliding Window
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
