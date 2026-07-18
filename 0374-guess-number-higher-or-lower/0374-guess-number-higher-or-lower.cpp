@@ -12,19 +12,19 @@ public:
     int guessNumber(int n) {
         int low=1;
         int high=n;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            int res=guess(mid);
-            if(res==0){
-                return mid;
-            }
-            else if(res==1){
-                low=mid+1;
-            }
-            else{
-                high=mid-1;
-            }
+      while(low<=high){
+        int pick=low+(high-low)/2;
+        int res=guess(pick);
+               if(res==1){
+            low=pick+1;
         }
+        else if(res==-1){
+            high=pick-1;
+        }
+        else if(res==0){
+            return pick;
+        }
+      }
         return -1;
     }
 };
