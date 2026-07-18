@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0374-guess-number-higher-or-lower) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Number Theory
 |  |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
