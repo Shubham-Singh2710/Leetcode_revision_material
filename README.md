@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
+| [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0443-string-compression) |
 ## Sliding Window
