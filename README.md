@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1572-matrix-diagonal-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0443-string-compression) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0374-guess-number-higher-or-lower) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
