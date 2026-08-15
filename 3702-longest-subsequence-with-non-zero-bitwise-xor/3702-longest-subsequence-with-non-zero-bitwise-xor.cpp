@@ -6,7 +6,7 @@ public:
         
         for (int i = 0; i < n; i++) {
             xorVal ^= nums[i];
-            if (nums[i] == 0) {
+            if (xorVal == 0) {
                 count++;
             }
         }
