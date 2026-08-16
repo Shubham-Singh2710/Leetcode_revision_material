@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1572-matrix-diagonal-sum) |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
@@ -159,4 +162,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
