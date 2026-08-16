@@ -6,7 +6,7 @@ public:
         int cnt1 = 0;
         int cnt2 = 0;
 
-        // Stones ko 3 groups mein divide karo
+       
         for(int x : stones) {
 
             if(x % 3 == 0)
