@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0443-string-compression) |
