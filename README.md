@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0347-top-k-frequent-elements) |
