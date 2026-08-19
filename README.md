@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1572-matrix-diagonal-sum) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0560-subarray-sum-equals-k) |
+| [1386-cinema-seat-allocation](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
