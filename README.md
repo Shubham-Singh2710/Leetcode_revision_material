@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1572-matrix-diagonal-sum) |
+| [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
+| [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -190,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -203,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
