@@ -142,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0443-string-compression) |
 | [1927-sum-game](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
