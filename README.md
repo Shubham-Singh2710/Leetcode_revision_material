@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1211-queries-quality-and-percentage) |
+| [1280-students-and-examinations](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1757-recyclable-and-low-fat-products) |
