@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0626-exchange-seats) |
 | [1075-project-employees-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1075-project-employees-i) |
