@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
