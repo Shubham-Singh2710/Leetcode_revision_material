@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
