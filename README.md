@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
 |  |
 | ------- |
@@ -259,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
