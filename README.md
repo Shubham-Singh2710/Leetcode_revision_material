@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1572-matrix-diagonal-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
