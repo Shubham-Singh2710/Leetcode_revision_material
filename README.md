@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3863-minimum-operations-to-sort-a-string) |
