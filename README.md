@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1693-daily-leads-and-partners) |
