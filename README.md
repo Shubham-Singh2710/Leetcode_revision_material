@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3903-smallest-stable-index-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubham-Singh2710/Leetcode_revision_material/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
